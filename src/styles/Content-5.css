@@ -1,0 +1,75 @@
+.content-container4{
+    display: flex;
+    justify-content: center;
+}
+.content4{
+    font-family: "Roboto";
+    margin-top: 20px;
+    height : 40vh;
+    width : 80vw;
+    border: solid 1px grey;
+}
+.permission{
+    display: flex;
+}
+.checkss{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 10vh;
+    width : 5vw;
+    border-right: solid 1px grey;
+}
+.question{
+    padding-left:10px; 
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height : 10vh;
+    width : 75vw;
+    border-bottom: solid 1px grey;
+}
+.question input{
+    border: none;
+    border-bottom: solid 1px grey;
+
+}
+.checkss1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 10vh;
+    width : 5vw;
+    border-top: solid 1px grey;
+    border-right: solid 1px grey;
+}
+.time{
+    margin-top: 10px;
+    display: flex;
+}
+.changing{
+    display: flex;
+}
+.question1{
+    padding-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.question1 input{
+    border: none;
+    width : 50vw;
+    border-bottom:solid 1px grey;
+}
+.plus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 20vh;
+    border-top : solid 1px grey;
+}
+.plus input{
+    margin-top: 10px;
+    height : 10vh;
+    width :77vw;
+}

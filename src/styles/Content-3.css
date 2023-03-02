@@ -1,0 +1,36 @@
+.content-container2{
+    display: flex;
+    justify-content: center;
+}
+.content2{
+    font-family: "Roboto";
+    margin-top: 20px;
+    width : 80vw;
+    border: solid 1px grey;
+}
+.first{
+    display: flex;
+}
+.num{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:5vw;
+    border-bottom: solid 1px grey;
+    border-right: solid 1px grey;
+}
+.texts{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width:72vw;
+    border-bottom: solid 1px grey;
+    border-right: solid 1px grey;
+}
+.checks{
+    display: flex;
+    justify-content: center;
+    width : 40px;
+    align-items: center;
+    border-bottom: solid 1px grey;
+}

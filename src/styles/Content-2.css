@@ -1,0 +1,22 @@
+.content-container1{
+    display: flex;
+    justify-content: center;
+}
+.title{
+    margin-top: 20px;
+}
+.content{
+    font-family: "Roboto";
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    width : 80vw;
+}
+.content input{
+    border: none;
+    border-bottom: solid 1px grey;
+}
+.phone{
+    margin-top: 15px;
+}

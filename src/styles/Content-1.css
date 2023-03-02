@@ -1,0 +1,91 @@
+.content-container{
+    display: flex;
+    justify-content: center;
+}
+.title p{
+    font-family: "Roboto";
+}
+.main-content{
+    margin-top: 10px;
+    width : 80vw;
+    border: grey 1px solid;
+}
+.content-1{
+    display: flex;
+}
+.content-2{
+    display: flex;
+}
+.check{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 25vh;
+    width : 5vw;
+    border-bottom: solid 1px grey;
+    border-right: solid 1px grey;
+}
+.titles{
+    font-family: "Roboto";
+    font-weight: 500;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 25vh;
+    width : 10vw;
+    border-bottom: solid 1px grey;
+    border-right: solid 1px grey;
+}
+.main{
+    padding-left: 10px;
+    font-family: "Roboto";
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height : 25vh;
+    width : 100%;
+    border-bottom: solid 1px grey;
+}
+.main input{
+    border: none;
+    border-bottom: solid 1px grey;
+}
+/* 1 */
+.check1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 18vh;
+    width : 5vw;
+    border-bottom: solid 1px grey;
+    border-right: solid 1px grey;
+}
+.titles1{
+    font-family: "Roboto";
+    font-weight: 500;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 18vh;
+    width : 10vw;
+    border-bottom: solid 1px grey;
+    border-right: solid 1px grey;
+}
+.main1{
+    padding-left: 10px;
+    font-family: "Roboto";
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height : 18vh;
+    width : 100%;
+    border-bottom: solid 1px grey;
+}
+.main1 input{
+    border: none;
+    border-bottom: solid 1px grey;
+}

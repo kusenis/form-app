@@ -1,0 +1,96 @@
+.content-container3{
+    display: flex;
+    justify-content: center;
+}
+.content3{
+    font-family: "Roboto";
+    margin-top :20px;
+    height: 40vh;
+    width: 80vw;
+    border: solid 1px grey;
+}
+.row{
+    display: flex;
+}
+.num-place{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 40vw;
+    border-bottom: solid 1px grey;
+    border-right: solid 1px grey;
+}
+.dedication-place{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 40vw;
+    border-bottom: solid 1px grey;
+}
+.dedication-place input{
+    width : 35vw;
+    margin-top :5px;
+    border: none;
+    border-bottom: solid 1px grey;
+}
+.size-place{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 40vw;
+    border-bottom: solid 1px grey;
+    border-right: solid 1px grey;
+}
+.size-place input{
+    width : 35vw;
+    margin-top :5px;
+    border: none;
+    border-bottom: solid 1px grey;
+}
+.registed-place{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 40vw;
+    border-bottom: solid 1px grey;
+}
+.registed-place input{
+    width : 35vw;
+    margin-top :5px;
+    border: none;
+    border-bottom: solid 1px grey;
+}
+.time-place{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.time-place input{
+    width : 15vw;
+    margin-top :5px;
+    border: none;
+    border-bottom: solid 1px grey;
+}
+.num-place input{
+    width : 35vw;
+    margin-top :5px;
+    border: none;
+    border-bottom: solid 1px grey;
+}
+.time-place1{
+    flex-wrap: wrap;
+    border-left: solid 1px grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:20vh;
+}
+.time-place1 input{
+    margin-top :5px;
+    border: none;
+    border-bottom: solid 1px grey;
+}
