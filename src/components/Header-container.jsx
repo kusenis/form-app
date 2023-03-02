@@ -8,11 +8,11 @@ const Header = () => {
             <h2>ГАЗАР АШИГЛАХ ТУХАЙ ХҮСЭЛТ</h2>
         <div className="header-input">
             <div>
-                <div className='input'>
+                <div className='input1'>
                     <input type="text" />
                     <p>аймаг /нийслэл/-ийн</p>
                 </div>
-                <div className='input'>
+                <div className='input1'>
                     <input type="text" />
                     <p>сумын газрын даамал</p>
                 </div>
